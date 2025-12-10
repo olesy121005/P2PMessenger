@@ -1,0 +1,6 @@
+{
+  "TcpPort": 8080,
+  "UdpPort": 8888,
+  "Username": "User_OLESY",
+  "BroadcastAddress": "255.255.255.255"
+}
